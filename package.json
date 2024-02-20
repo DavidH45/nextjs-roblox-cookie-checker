@@ -1,0 +1,38 @@
+{
+  "name": "nextjs-discord-auth-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@vercel/analytics": "^1.0.1",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "framer-motion": "^10.12.16",
+    "fs": "^0.0.1-security",
+    "next": "",
+    "next-auth": "",
+    "react": "",
+    "react-confetti": "^6.1.0",
+    "react-dom": "",
+    "react-icons": "^5.0.1",
+    "react-use": "^17.5.0",
+    "text-file-utils": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "",
+    "@types/react": "",
+    "@types/react-dom": "",
+    "eslint": "",
+    "eslint-config-next": "",
+    "typescript": ""
+  }
+}
